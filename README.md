@@ -3,8 +3,8 @@ This is the pytorch implementation of TEDDCF. I hope these codes are helpful to 
 I would like to thank STIDGCN for the code instructions！
 
 <p align="center">
-  <img src="figs/fig1.jpg" width="100%">
-  <img src="figs/fig2.jpg" width="100%">
+  <img src="TEDDCF/figs/fig1.jpg" width="100%">
+  <img src="TEDDCF/figs/fig2.jpg" width="100%">
 </p>
 
 ## Requirements
